@@ -9,7 +9,7 @@ Recipe book application helps to
   - delete ingredients
   
  This application is hosted on Firebase hosting.
- For storing of data we use Firebase database.
- Proper authentication has been provided in the application.
+ For storing of data Firebase database is used.
+ Authentication has been implemented in the application.
  Sign up and Sign in functionality has been implented in the appication.
- We have made a point to implement almost all of the features of angular in the Recipe book application.
+I have made a point to implement almost all of the features of angular in the Recipe book application.
